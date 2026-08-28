@@ -1,0 +1,10 @@
+{
+  "description": "Generates precise circular Arabic calligraphy art featuring a central letter, a ring of 40 letters, and concentric rings of Surah Al-Muzzammil text for authentic design.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
